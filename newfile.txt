@@ -1,0 +1,3 @@
+add: add changes to staging area
+commit: commit changes
+push: push commits to remote branch
